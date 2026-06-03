@@ -1,0 +1,1 @@
+# Varient---News-Magazine-Script-to-Wordpress-Importer
